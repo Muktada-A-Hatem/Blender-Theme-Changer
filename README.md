@@ -8,13 +8,12 @@ An app to change the default Blender theme colors with some added options.
 
 **NOTE!:**
 
-Because this program was built with PyInstaller, Some "Premium" antivirus software may think it's a virus or the file is suspicious;
-Thats why this program is on Github, If you really dont trust the program then just get the .py file from the source code, and scan the code inside the file.
+Because this program was built with PyInstaller, antivirus software will probably flag it. The .Py file is in the repository for you to load and compile if you so desire.
 
 
 **Setup:**
 
-Its a .exe file c'mon dude...
+It's a portable exe.
 
 
 **Running:**
